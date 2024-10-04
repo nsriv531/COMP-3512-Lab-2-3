@@ -1,6 +1,8 @@
 <?php
 // Include the external file that contains the generateBox() function
 include 'lab12a-test02.inc.php';
+
+
 ?>
 
 <!DOCTYPE html>

@@ -3,8 +3,10 @@
 define("USD_TO_EURO", 0.87);
 define("USD_TO_POUND", 0.76);
 
+
 function USToEuro($USamount) {
     // Convert to Euro, round up, and return the result
+
     return ceil($USamount * USD_TO_EURO);
 }
 
